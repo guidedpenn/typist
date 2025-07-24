@@ -1,7 +1,7 @@
 // Simple Wordle-like game in JavaScript + HTML + CSS
 
-const words = ["apple", "grape", "melon", "berry", "peach"];
-const secretWord = words[Math.floor(Math.random() * words.length)];
+const words = ["chiton"];
+const secretWord = "chiton";
 
 let attempts = 0;
 const maxAttempts = 6;
